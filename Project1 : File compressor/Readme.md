@@ -1,7 +1,8 @@
 <h3>in cargo.toml write this:</h3>
 [dependencies]
 flate2 = "1.0.24"
-![image](https://github.com/sanketpalkar9/Rust-project/assets/120122187/fb1fdb0c-726e-4487-b70e-be9b6d9bd5bd)
+![image](https://github.com/sanketpalkar9/Rust-project/assets/120122187/523cdb34-a446-4300-a5a8-a4b3e1134eea)
+
 
 
 
